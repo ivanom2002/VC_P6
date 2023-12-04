@@ -1,7 +1,5 @@
 # VC_P6
 
-# VC_P5
-
 ## Introducción 
 
 El objetivo de esta práctica es tomando como punto de partida las utilidades de deepface, proporcionar alguna reacción en función de la información que estas nos proporcionen
